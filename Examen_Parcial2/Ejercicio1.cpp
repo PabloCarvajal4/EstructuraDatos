@@ -81,7 +81,7 @@ int main()
     ABB arbol = NULL;
     int x;
     int op, op2;
-	int array[5] = {3,1,20,15,25};
+	//int array[5] = {3,1,20,15,25};
     do
     {
           menu();  cin>> op;
